@@ -7,14 +7,14 @@
 
 ---
 
-## 📘 OVERVIEW
+##  OVERVIEW
 This repository contains the Python solutions for **CIR 203 Homework One**, which focuses on the use of Python data structures and the NumPy library in various real-world contexts.
 
 Each exercise demonstrates the application of different data structures through clear, well-commented Python programs.
 
 ---
 
-## 🧩 EXERCISES SUMMARY
+## EXERCISES SUMMARY
 
 ### **EXERCISE 1: NUMPY ARRAYS (BANKING SECTOR)**
 - Uses a 2D NumPy array to represent transaction volumes for 4 branches over 6 months.
@@ -45,7 +45,7 @@ Each exercise demonstrates the application of different data structures through 
 
 ---
 
-## ⚙️ HOW TO RUN
+##  HOW TO RUN
 1. Clone or download this repository.
 2. Open the file **CIR203_HOMEWORK_ONE_MOTANYA_JUSTIN.py** in your IDE or terminal.
 3. Run the script:
